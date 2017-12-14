@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pitang.TreinamentoPitang.De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pitang.TreinamentoPitang.Demo4", "Pitang.TreinamentoPitang.Demo4\Pitang.TreinamentoPitang.Demo4.csproj", "{AB5DC7D3-2E4C-4BA7-A963-0A045B8D7AFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pitang.TreinamentoPitang.Demo5", "Pitang.TreinamentoPitang.Demo5\Pitang.TreinamentoPitang.Demo5.csproj", "{8002206B-0284-4396-8AE4-B19451FAE73F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pitang.TreinamentoPitang.Demo6", "Pitang.TreinamentoPitang.Demo6\Pitang.TreinamentoPitang.Demo6.csproj", "{029500F5-D06F-4C89-B1F0-D5AFDEDB702D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{AB5DC7D3-2E4C-4BA7-A963-0A045B8D7AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB5DC7D3-2E4C-4BA7-A963-0A045B8D7AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB5DC7D3-2E4C-4BA7-A963-0A045B8D7AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8002206B-0284-4396-8AE4-B19451FAE73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8002206B-0284-4396-8AE4-B19451FAE73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8002206B-0284-4396-8AE4-B19451FAE73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8002206B-0284-4396-8AE4-B19451FAE73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029500F5-D06F-4C89-B1F0-D5AFDEDB702D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029500F5-D06F-4C89-B1F0-D5AFDEDB702D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029500F5-D06F-4C89-B1F0-D5AFDEDB702D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029500F5-D06F-4C89-B1F0-D5AFDEDB702D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
